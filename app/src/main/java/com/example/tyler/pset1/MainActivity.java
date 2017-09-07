@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
         super.onRestoreInstanceState(savedInstanceState);
 
         ImageView ImageArms = (ImageView)findViewById(R.id.ImageArms);
-        int armsVal = ImageArms.getVisibility();
+        int armsVal = ImageArms.getVisibility();  
         if(savedInstanceState.getInt("arms") == 1) {
             ImageArms.setVisibility(View.VISIBLE);
         }
