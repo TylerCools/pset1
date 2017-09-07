@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity = "center"
+    tools:context="com.example.tyler.pset1.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Welcome"
+        android:layout_gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="323dp"
+        android:gravity = "center" >
+
+        <ImageView
+            android:id="@+id/body"
+            android:layout_width="match_parent"
+            android:layout_height="322dp"
+            app:srcCompat="@mipmap/body" />
+
+        <ImageView
+            android:id="@+id/ImageEyebrows"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@mipmap/eyebrows"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageShoes"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@mipmap/shoes"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageEyes"
+            android:layout_width="match_parent"
+            android:layout_height="293dp"
+            app:srcCompat="@mipmap/eyes"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageGlasses"
+            android:layout_width="match_parent"
+            android:layout_height="296dp"
+            app:srcCompat="@mipmap/glasses"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageHat"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            app:srcCompat="@mipmap/hat"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageMouth"
+            android:layout_width="match_parent"
+            android:layout_height="310dp"
+            app:srcCompat="@mipmap/mouth"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageMustache"
+            android:layout_width="match_parent"
+            android:layout_height="278dp"
+            app:srcCompat="@mipmap/mustache"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageNose"
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            app:srcCompat="@mipmap/nose"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageEars"
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            app:srcCompat="@mipmap/ears"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageArms"
+            android:layout_width="wrap_content"
+            android:layout_height="279dp"
+            android:layout_marginStart="12dp"
+            android:visibility="invisible"
+            app:srcCompat="@mipmap/arms" />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Mr"
+        android:layout_gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity = "center"
+        tools:context="com.example.tyler.pset1.MainActivity">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="108dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity = "center"
+            tools:context="com.example.tyler.pset1.MainActivity">
+
+                <CheckBox
+                    android:id="@+id/Arms"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Arms"
+                    android:onClick="addPart"/>
+
+                <CheckBox
+                    android:id="@+id/Hat"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Hat"
+                    android:onClick="addPart"/>
+
+
+            <CheckBox
+                android:id="@+id/Glasses"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Glasses"
+                android:onClick="addPart"/>
+
+            <CheckBox
+                android:id="@+id/Nose"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Nose"
+                android:onClick="addPart"/>
+
+
+            <CheckBox
+                android:id="@+id/Eyebrows"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Eyebrows"
+                android:onClick="addPart"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="108dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity = "center"
+            tools:context="com.example.tyler.pset1.MainActivity">
+
+                <CheckBox
+                    android:id="@+id/Shoes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Shoes"
+                    android:onClick="addPart"/>
+
+
+            <CheckBox
+                    android:id="@+id/Mustache"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Mustache"
+                android:onClick="addPart"/>
+
+
+            <CheckBox
+                    android:id="@+id/Mouth"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Mouth"
+                android:onClick="addPart"/>
+
+            <CheckBox
+                android:id="@+id/Ears"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Ears"
+                android:onClick="addPart"/>
+
+            <CheckBox
+                    android:id="@+id/Eyes"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Eyes"
+                android:onClick="addPart"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+

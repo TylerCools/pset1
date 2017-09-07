@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ae338dd752d86aca26ecbca043bc8261d04d38c">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66d05ca0f0e3ccb0b28a8373f17a98d1727ce277/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/465090af0a1f3a9563230f7bb2ab08c5b8a42ee2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_0a339ac0a7232248edcb1f32cc4e3152a2b0d6bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/ce67b08f128e2ee8e8d883760cc91ea19904cd2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_7efb1ebdd3638f3a5cfa3ec3c7825928e3c9164f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_fa1394bc486791ae29cc043c832daf683a763349.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_872ddb5f4ce18f05d151f60f9c913f72873f4861/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/5a4b79564916c93a51335ce06c89a7c325053011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_65bec4bc2a60b3c14476fd45a73bce5af5e329df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/702cb852e466aa9188088ea86644082099896961/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_dad6a666a16ed8a30e5d2963f3e3ded182a5e803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e8f7faa630e4ed6e862ed5bd9491159bc388db5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/bfa9a66b103cdc00b95cf95bbd88a37a36af332f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_3cd501ee83381cb106146755e0afbff9a0514223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/763fae908e4ac852dc280a91994c301c07ef81a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_91bf122b54445b954b50ba4c77b3b9595abaead2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/dc3dc4d3a9d1f0ac305edac8ad967fef058b1f5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_5bd998e82832cb8b496d0b1432ab39d6d8774315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/a936a20c1f5d1b5bb2af1fa26c6b796acea2303a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_60d161b4bc1e3f5558ee016a34a53a9e05b23967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/2973a2f48dab9d4d61f4dd4eec4765ca275bcca2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_bdade5aa999fa02cdc29df845cd3ae8bfccdab6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tyler/.android/build-cache/69eeaf42e3cee6722ba7e212fe1e453b32ffc3b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/pre-dexed/debug/classes_8b103bebbf06dfbf190fdce7b16b5dfd2fbfb1f8.jar" />
+    </item>
+
+</items>

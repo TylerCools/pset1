@@ -1,0 +1,17 @@
+<resources>
+    <string name="Mr">Select the parts you want to add</string>
+    <string name="Welcome">Welcome! This is your potato</string>
+    <string name="app_name">Mr. Potatohead Tyler Cools</string>
+    <string name="Arms">Arms</string>
+    <string name="Eyebrows">Eyebrows</string>
+    <string name="Eyes">Eyes</string>
+    <string name="Glasses">Glasses</string>
+    <string name="Mustache">Mustache</string>
+    <string name="Mouth">Mouth</string>
+    <string name="Nose">Nose</string>
+    <string name="Shoes">Shoes</string>
+    <string name="Hat">Hat</string>
+    <string name="Ears">Ears</string>
+
+</resources>
+

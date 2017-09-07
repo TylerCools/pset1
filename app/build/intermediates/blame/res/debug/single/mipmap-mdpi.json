@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/hat.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/hat.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/arms.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/arms.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/shoes.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/shoes.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/glasses.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/glasses.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/mouth.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/mouth.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/nose.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/nose.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/body.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/body.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/eyebrows.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/eyebrows.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/eyes.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/eyes.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/mustache.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/mustache.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tyler/AndroidStudioProjects/pset1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ears.png",
+        "source": "/home/tyler/AndroidStudioProjects/pset1/app/src/main/res/mipmap-mdpi/ears.png"
+    }
+]
